@@ -4,8 +4,8 @@ project(gz_msgs_vendor)
 
 # Project-specific settings
 set(LIB_VER_MAJOR 10)
-set(LIB_VER_MINOR 1)
-set(LIB_VER_PATCH 2)
+set(LIB_VER_MINOR 3)
+set(LIB_VER_PATCH 0)
 
 # Derived variables
 set(LIB_NAME gz-msgs)
