@@ -2,6 +2,11 @@
 Changelog for package gz_msgs_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.2 (2024-07-15)
+------------------
+* Update vendored package version to 10.3.0
+* Contributors: Addisu Z. Taddese
+
 0.1.1 (2024-05-29)
 ------------------
 * Update underlying version to 10.2.0
