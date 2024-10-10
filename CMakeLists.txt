@@ -5,7 +5,7 @@ project(gz_msgs_vendor)
 # Project-specific settings
 set(LIB_VER_MAJOR 11)
 set(LIB_VER_MINOR 0)
-set(LIB_VER_PATCH 0)
+set(LIB_VER_PATCH 1)
 set(LIB_VER_SUFFIX "")
 
 # Derived variables
