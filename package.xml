@@ -10,9 +10,9 @@
     To avoid any confusion with the version of the vendor package, the major
     version here will always be 0.
   -->
-  <version>0.0.5</version>
+  <version>0.0.6</version>
   <description>
-    Vendor package for: gz-msgs10 10.3.1
+    Vendor package for: gz-msgs10 10.3.2
 
     Gazebo Messages: Protobuf messages and functions for robot applications
   </description>
@@ -24,6 +24,7 @@
   <buildtool_depend>ament_cmake_test</buildtool_depend>
   <buildtool_depend>ament_cmake_vendor_package</buildtool_depend>
 
+  <buildtool_depend>cmake</buildtool_depend>
   <build_depend>protobuf-dev</build_depend>
   <build_depend>python3-protobuf</build_depend>
   <build_depend>python3</build_depend>
