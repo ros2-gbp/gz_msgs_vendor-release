@@ -2,15 +2,10 @@
 Changelog for package gz_msgs_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.3.0 (2025-09-08)
+0.2.4 (2025-09-24)
 ------------------
-* Jetty support: 12.0.0-pre1 (`#9 <https://github.com/gazebo-release/gz_msgs_vendor/issues/9>`_)
-* Contributors: Steve Peters
-
-0.2.3 (2025-05-23)
-------------------
-* Bump version to 11.1.0 (`#8 <https://github.com/gazebo-release/gz_msgs_vendor/issues/8>`_)
-* Contributors: Ian Chen, Jose Luis Rivero
+* Bump version to 11.1.0 (`#10 <https://github.com/gazebo-release/gz_msgs_vendor/issues/10>`_)
+* Contributors: Addisu Z. Taddese
 
 0.2.2 (2025-01-10)
 ------------------
