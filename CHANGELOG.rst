@@ -2,6 +2,18 @@
 Changelog for package gz_msgs_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.3.2 (2025-10-01)
+------------------
+* Merge pull request `#13 <https://github.com/gazebo-release/gz_msgs_vendor/issues/13>`_ from gazebo-release/releasepy/rolling/12.0.0
+  Bump version to 12.0.0
+* Bump version to 12.0.0
+* Set PYTHONPATH for Jetty packages (`#11 <https://github.com/gazebo-release/gz_msgs_vendor/issues/11>`_)
+  * Set PYTHONPATH for unversioned packages
+  * Bump to 12.0.0~pre2
+  * Set PYTHONPATH from separate dsv file
+  ---------
+* Contributors: Ian Chen, Jose Luis Rivero, Steve Peters
+
 0.3.1 (2025-09-24)
 ------------------
 * Bump version to 12.0.0-pre2 (`#12 <https://github.com/gazebo-release/gz_msgs_vendor/issues/12>`_)
