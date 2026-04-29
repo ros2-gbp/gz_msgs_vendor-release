@@ -1,0 +1,12 @@
+Source: ros-lyrical-gz-msgs-vendor
+Section: misc
+Priority: optional
+Maintainer: Addisu Z. Taddese <addisuzt@intrinsic.ai>
+Build-Depends: debhelper (>= 9.0.0), cmake, libprotobuf-dev, libprotoc-dev, libtinyxml2-dev, protobuf-compiler, python3-dev, python3-protobuf, python3-pytest <!nocheck>, ros-lyrical-ament-cmake-copyright <!nocheck>, ros-lyrical-ament-cmake-core, ros-lyrical-ament-cmake-lint-cmake <!nocheck>, ros-lyrical-ament-cmake-test, ros-lyrical-ament-cmake-vendor-package, ros-lyrical-ament-cmake-xmllint <!nocheck>, ros-lyrical-gz-cmake-vendor, ros-lyrical-gz-math-vendor, ros-lyrical-gz-tools-vendor, ros-lyrical-ros-workspace
+Homepage: https://github.com/gazebosim/gz-msgs
+Standards-Version: 3.9.2
+
+Package: ros-lyrical-gz-msgs-vendor
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libprotobuf-dev, libprotoc-dev, libtinyxml2-dev, protobuf-compiler, python3-dev, python3-protobuf, ros-lyrical-gz-cmake-vendor, ros-lyrical-gz-math-vendor, ros-lyrical-gz-tools-vendor, ros-lyrical-ros-workspace
+Description: Vendor package for: gz-msgs 12.0.1 Gazebo Messages: Protobuf messages and functions for robot applications
