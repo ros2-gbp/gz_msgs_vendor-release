@@ -2,6 +2,11 @@
 Changelog for package gz_msgs_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.2.5 (2026-08-13)
+------------------
+* Bump version to 11.2.0 (`#19 <https://github.com/gazebo-release/gz_msgs_vendor/issues/19>`_)
+* Contributors: Carlos Agüero
+
 0.2.4 (2025-09-24)
 ------------------
 * Bump version to 11.1.0 (`#10 <https://github.com/gazebo-release/gz_msgs_vendor/issues/10>`_)
