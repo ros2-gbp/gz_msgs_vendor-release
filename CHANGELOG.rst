@@ -2,77 +2,27 @@
 Changelog for package gz_msgs_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.4.1 (2026-07-28)
+0.0.7 (2026-08-13)
 ------------------
-* Bump version to 12.0.2 (`#16 <https://github.com/gazebo-release/gz_msgs_vendor/issues/16>`_)
+* Bump version to 10.4.0 (`#18 <https://github.com/gazebo-release/gz_msgs_vendor/issues/18>`_)
 * Contributors: Carlos Agüero
 
-0.4.0 (2026-05-14)
+0.0.6 (2025-02-19)
 ------------------
-
-0.3.3 (2026-01-21)
-------------------
-* Bump version to 12.0.1 (`#15 <https://github.com/gazebo-release/gz_msgs_vendor/issues/15>`_)
-* Contributors: Ian Chen
-
-0.3.2 (2025-10-01)
-------------------
-* Merge pull request `#13 <https://github.com/gazebo-release/gz_msgs_vendor/issues/13>`_ from gazebo-release/releasepy/rolling/12.0.0
-  Bump version to 12.0.0
-* Bump version to 12.0.0
-* Set PYTHONPATH for Jetty packages (`#11 <https://github.com/gazebo-release/gz_msgs_vendor/issues/11>`_)
-  * Set PYTHONPATH for unversioned packages
-  * Bump to 12.0.0~pre2
-  * Set PYTHONPATH from separate dsv file
-  ---------
-* Contributors: Ian Chen, Jose Luis Rivero, Steve Peters
-
-0.3.1 (2025-09-24)
-------------------
-* Bump version to 12.0.0-pre2 (`#12 <https://github.com/gazebo-release/gz_msgs_vendor/issues/12>`_)
-* Contributors: Addisu Z. Taddese
-
-0.3.0 (2025-09-08)
-------------------
-* Jetty support: 12.0.0-pre1 (`#9 <https://github.com/gazebo-release/gz_msgs_vendor/issues/9>`_)
+* Bump version to 10.3.2 (`#7 <https://github.com/gazebo-release/gz_msgs_vendor/issues/7>`_)
 * Contributors: Steve Peters
 
-0.2.3 (2025-05-23)
+0.0.5 (2024-11-12)
 ------------------
-* Bump version to 11.1.0 (`#8 <https://github.com/gazebo-release/gz_msgs_vendor/issues/8>`_)
-* Contributors: Ian Chen, Jose Luis Rivero
+* Bump version to 10.3.1 (`#5 <https://github.com/gazebo-release/gz_msgs_vendor/issues/5>`_)
+* Contributors: Carlos Agüero
 
-0.2.2 (2025-01-10)
-------------------
-* Bump version to 11.0.2 (`#6 <https://github.com/gazebo-release/gz_msgs_vendor/issues/6>`_)
-* Contributors: Steve Peters
-
-0.2.1 (2024-10-10)
-------------------
-* Merge pull request `#4 <https://github.com/gazebo-release/gz_msgs_vendor/issues/4>`_ from gazebo-release/releasepy/11.0.1
-* Contributors: Jose Luis Rivero
-
-0.2.0 (2024-09-30)
-------------------
-* Bump version to 11.0.0 (`#3 <https://github.com/gazebo-release/gz_msgs_vendor/issues/3>`_)
-* Apply prerelease suffix (`#2 <https://github.com/gazebo-release/gz_msgs_vendor/issues/2>`_)
-  * Apply prerelease suffix
-  * Drop BUILD_DOCS
-  ---------
-* Upgrade to Ionic
-* Contributors: Addisu Z. Taddese
-
-0.1.2 (2024-07-15)
+0.0.4 (2024-07-15)
 ------------------
 * Update vendored package version to 10.3.0
 * Contributors: Addisu Z. Taddese
 
-0.1.1 (2024-05-29)
-------------------
-* Update underlying version to 10.2.0
-* Contributors: Addisu Z. Taddese
-
-0.1.0 (2024-04-23)
+0.0.3 (2024-04-25)
 ------------------
 * Use an alias target for root library
 * Contributors: Addisu Z. Taddese
