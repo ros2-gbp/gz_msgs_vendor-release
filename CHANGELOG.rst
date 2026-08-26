@@ -2,6 +2,11 @@
 Changelog for package gz_msgs_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.4.2 (2026-08-25)
+------------------
+* Upgrade to Rotary prerelease (`#20 <https://github.com/gazebo-release/gz_msgs_vendor/issues/20>`_)
+* Contributors: Addisu Z. Taddese
+
 0.4.1 (2026-07-28)
 ------------------
 * Bump version to 12.0.2 (`#16 <https://github.com/gazebo-release/gz_msgs_vendor/issues/16>`_)

@@ -3,10 +3,10 @@ cmake_minimum_required(VERSION 3.10)
 project(gz_msgs_vendor)
 
 # Project-specific settings
-set(LIB_VER_MAJOR 12)
+set(LIB_VER_MAJOR 13)
 set(LIB_VER_MINOR 0)
-set(LIB_VER_PATCH 2)
-set(LIB_VER_SUFFIX "")
+set(LIB_VER_PATCH 0)
+set(LIB_VER_SUFFIX "-pre1")
 
 # Derived variables
 set(LIB_NAME gz-msgs)
