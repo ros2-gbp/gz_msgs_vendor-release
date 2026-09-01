@@ -2,50 +2,20 @@
 Changelog for package gz_msgs_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.4.2 (2026-08-25)
+0.2.6 (2026-08-31)
 ------------------
-* Upgrade to Rotary prerelease (`#20 <https://github.com/gazebo-release/gz_msgs_vendor/issues/20>`_)
+* Enable Python bindings (`#21 <https://github.com/gazebo-release/gz_msgs_vendor/issues/21>`_)
 * Contributors: Addisu Z. Taddese
 
-0.4.1 (2026-07-28)
+0.2.5 (2026-08-13)
 ------------------
-* Bump version to 12.0.2 (`#16 <https://github.com/gazebo-release/gz_msgs_vendor/issues/16>`_)
+* Bump version to 11.2.0 (`#19 <https://github.com/gazebo-release/gz_msgs_vendor/issues/19>`_)
 * Contributors: Carlos Agüero
 
-0.4.0 (2026-05-14)
+0.2.4 (2025-09-24)
 ------------------
-
-0.3.3 (2026-01-21)
-------------------
-* Bump version to 12.0.1 (`#15 <https://github.com/gazebo-release/gz_msgs_vendor/issues/15>`_)
-* Contributors: Ian Chen
-
-0.3.2 (2025-10-01)
-------------------
-* Merge pull request `#13 <https://github.com/gazebo-release/gz_msgs_vendor/issues/13>`_ from gazebo-release/releasepy/rolling/12.0.0
-  Bump version to 12.0.0
-* Bump version to 12.0.0
-* Set PYTHONPATH for Jetty packages (`#11 <https://github.com/gazebo-release/gz_msgs_vendor/issues/11>`_)
-  * Set PYTHONPATH for unversioned packages
-  * Bump to 12.0.0~pre2
-  * Set PYTHONPATH from separate dsv file
-  ---------
-* Contributors: Ian Chen, Jose Luis Rivero, Steve Peters
-
-0.3.1 (2025-09-24)
-------------------
-* Bump version to 12.0.0-pre2 (`#12 <https://github.com/gazebo-release/gz_msgs_vendor/issues/12>`_)
+* Bump version to 11.1.0 (`#10 <https://github.com/gazebo-release/gz_msgs_vendor/issues/10>`_)
 * Contributors: Addisu Z. Taddese
-
-0.3.0 (2025-09-08)
-------------------
-* Jetty support: 12.0.0-pre1 (`#9 <https://github.com/gazebo-release/gz_msgs_vendor/issues/9>`_)
-* Contributors: Steve Peters
-
-0.2.3 (2025-05-23)
-------------------
-* Bump version to 11.1.0 (`#8 <https://github.com/gazebo-release/gz_msgs_vendor/issues/8>`_)
-* Contributors: Ian Chen, Jose Luis Rivero
 
 0.2.2 (2025-01-10)
 ------------------
