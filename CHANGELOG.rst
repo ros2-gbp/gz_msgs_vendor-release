@@ -2,52 +2,35 @@
 Changelog for package gz_msgs_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.2.6 (2026-08-31)
+0.0.8 (2026-09-03)
 ------------------
-* Enable Python bindings (`#21 <https://github.com/gazebo-release/gz_msgs_vendor/issues/21>`_)
+* Enable Python bindings (`#22 <https://github.com/gazebo-release/gz_msgs_vendor/issues/22>`_)
+  * Enable Python bindings
+  * Rerun gz_vendor
+  ---------
 * Contributors: Addisu Z. Taddese
 
-0.2.5 (2026-08-13)
+0.0.7 (2026-08-13)
 ------------------
-* Bump version to 11.2.0 (`#19 <https://github.com/gazebo-release/gz_msgs_vendor/issues/19>`_)
+* Bump version to 10.4.0 (`#18 <https://github.com/gazebo-release/gz_msgs_vendor/issues/18>`_)
 * Contributors: Carlos Agüero
 
-0.2.4 (2025-09-24)
+0.0.6 (2025-02-19)
 ------------------
-* Bump version to 11.1.0 (`#10 <https://github.com/gazebo-release/gz_msgs_vendor/issues/10>`_)
-* Contributors: Addisu Z. Taddese
-
-0.2.2 (2025-01-10)
-------------------
-* Bump version to 11.0.2 (`#6 <https://github.com/gazebo-release/gz_msgs_vendor/issues/6>`_)
+* Bump version to 10.3.2 (`#7 <https://github.com/gazebo-release/gz_msgs_vendor/issues/7>`_)
 * Contributors: Steve Peters
 
-0.2.1 (2024-10-10)
+0.0.5 (2024-11-12)
 ------------------
-* Merge pull request `#4 <https://github.com/gazebo-release/gz_msgs_vendor/issues/4>`_ from gazebo-release/releasepy/11.0.1
-* Contributors: Jose Luis Rivero
+* Bump version to 10.3.1 (`#5 <https://github.com/gazebo-release/gz_msgs_vendor/issues/5>`_)
+* Contributors: Carlos Agüero
 
-0.2.0 (2024-09-30)
-------------------
-* Bump version to 11.0.0 (`#3 <https://github.com/gazebo-release/gz_msgs_vendor/issues/3>`_)
-* Apply prerelease suffix (`#2 <https://github.com/gazebo-release/gz_msgs_vendor/issues/2>`_)
-  * Apply prerelease suffix
-  * Drop BUILD_DOCS
-  ---------
-* Upgrade to Ionic
-* Contributors: Addisu Z. Taddese
-
-0.1.2 (2024-07-15)
+0.0.4 (2024-07-15)
 ------------------
 * Update vendored package version to 10.3.0
 * Contributors: Addisu Z. Taddese
 
-0.1.1 (2024-05-29)
-------------------
-* Update underlying version to 10.2.0
-* Contributors: Addisu Z. Taddese
-
-0.1.0 (2024-04-23)
+0.0.3 (2024-04-25)
 ------------------
 * Use an alias target for root library
 * Contributors: Addisu Z. Taddese
